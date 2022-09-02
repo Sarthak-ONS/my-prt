@@ -1,9 +1,12 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+body {
     padding-top: 55px;
-    
+    font-family: 'Poppins', sans-serif;
+
 }
 
-.aboutClass{
+.aboutClass {
     justify-content: center;
 }
 
@@ -20,6 +23,3 @@ body{
         font-size: 3.5rem;
     }
 }
-
-
-
