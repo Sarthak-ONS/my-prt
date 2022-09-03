@@ -3,7 +3,9 @@
 body {
     padding-top: 55px;
     font-family: 'Poppins', sans-serif;
-
+    height: 100%;
+    width: 100%;
+    margin: 0;
 }
 
 .aboutClass {
@@ -22,4 +24,17 @@ body {
     .bd-placeholder-img-lg {
         font-size: 3.5rem;
     }
+}
+
+.about-section {
+    height: 100%;
+    width: 100%;
+    background-color: teal;
+    text-align: center;
+    padding-top: 15%;
+
+}
+
+.page-section {
+    padding: 6rem 0;
 }
